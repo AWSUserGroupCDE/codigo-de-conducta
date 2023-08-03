@@ -53,5 +53,5 @@ Esperamos que todas las personas que visitan o participan en la comunidad del AW
 
 # Licencia y atribución
 
-Este Código de Conducta está basado en el Código de Conducta del [Garoa Hacker Clube](https://garoa.net.br/wiki/C%C3%B3digo_de_Conduta_Completo)
+Este Código de Conducta está basado en el Código de Conducta del [AWS User Group São Paulo](https://github.com/AWSUserGroupSP/codigo-de-conduta)
 
